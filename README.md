@@ -18,3 +18,6 @@ You should see: Server listening on ws://0.0.0.0:8080 ( The server sends valid, 
 
 3. fvm flutter run
 
+SCREENSHOT:
+https://github.com/user-attachments/assets/90ebf465-65a0-4d24-87fb-67ada153ce47
+
